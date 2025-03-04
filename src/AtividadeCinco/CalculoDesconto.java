@@ -6,7 +6,6 @@ public class CalculoDesconto {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Solicitar o valor da compra
         System.out.print("Digite o valor da compra: R$ ");
         double valorCompra = scanner.nextDouble();
 
